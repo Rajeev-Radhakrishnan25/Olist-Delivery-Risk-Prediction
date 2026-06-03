@@ -1,0 +1,6 @@
+echo "data/*.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+Project 1 Requirements.pdf
+tutorial_warmup.ipynb" > .gitignore
